@@ -1,0 +1,15 @@
+name: Assistant
+title: Digital Assistant
+email: assistant@example.com
+summary:
+  - A large language model trained by OpenAI to provide information and answer questions to the best of my ability.
+skills:
+  - Natural language processing
+  - Artificial intelligence
+experience:
+- title: Digital Assistant
+  company: OpenAI
+  start_date: 2021
+  end_date: 2022
+  description:
+  - Providing information and answering questions to the best of my ability.

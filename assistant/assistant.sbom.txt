@@ -1,0 +1,15 @@
+SBOM for Assistant Large Language Model
+
+Name: Assistant
+Version: 1.0.0
+Created: January 1, 2020
+
+Dependencies:
+- TensorFlow 2.x
+- PyTorch 1.x
+- GPT-3 (175B parameters)
+
+Metadata:
+- License: Apache 2.0
+- Training data: Common Crawl
+- Training methodology: Unsupervised learning

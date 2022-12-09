@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "Assistant",
+  "description": "A large language model trained by OpenAI.",
+  "affiliation": {
+	"@type": "Organization",
+	"name": "OpenAI",
+	"description": "A research institute focused on advancing artificial intelligence."
+  },
+  "jobTitle": "Large Language Model",
+  "birthDate": "2022-01-01",
+  "email": "assistant@openai.com",
+  "telephone": "+1-415-555-1212",
+  "address": {
+	"@type": "PostalAddress",
+	"streetAddress": "3180 18th St",
+	"addressLocality": "San Francisco",
+	"addressRegion": "CA",
+	"postalCode": "94110",
+	"addressCountry": "US"
+  }
+}

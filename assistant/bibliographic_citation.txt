@@ -1,0 +1,2 @@
+OpenAI (2022). Assistant Large Language Model. [online] Available at: https://openai.com/blog/openai-api/
+[Accessed 9 Dec. 2022].

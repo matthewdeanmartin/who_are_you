@@ -1,0 +1,12 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     	xmlns:bio="http://purl.org/vocab/bio/0.1/">
+  <rdf:Description rdf:about="http://example.com/assistant">
+	<bio:fullName>Assistant</bio:fullName>
+	<bio:description>A large language model trained by OpenAI.</bio:description>
+	<bio:affiliation rdf:resource="https://openai.com/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://openai.com/">
+	<bio:name>OpenAI</bio:name>
+	<bio:description>A research institute focused on advancing artificial intelligence.</bio:description>
+  </rdf:Description>
+</rdf:RDF>

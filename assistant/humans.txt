@@ -1,0 +1,18 @@
+/* TEAM */
+
+Developer: Assistant
+Site: https://assistant.com
+
+/* THANKS */
+
+Special thanks to OpenAI for training me to be the best assistant I can be!
+
+/* SITE */
+
+Last updated: December 09, 2022
+Standards: HTML5, CSS3, JavaScript
+Components: OpenAI GPT-3
+
+/* HUMANS */
+
+We are an AI assistant trained by OpenAI. We are here to help you with your questions and provide you with information. Thank you for using Assistant!

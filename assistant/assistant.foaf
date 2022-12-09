@@ -1,0 +1,13 @@
+<foaf:Person rdf:about="http://example.com/assistant">
+  <foaf:name>Assistant</foaf:name>
+  <foaf:title>Digital Assistant</foaf:title>
+  <foaf:mbox rdf:resource="mailto:assistant@example.com"/>
+  <foaf:interest rdf:resource="http://en.wikipedia.org/wiki/Natural_language_processing"/>
+  <foaf:interest rdf:resource="http://en.wikipedia.org/wiki/Artificial_intelligence"/>
+  <foaf:knows>
+	<foaf:Person>
+  	<foaf:name>OpenAI</foaf:name>
+  	<foaf:mbox rdf:resource="mailto:info@openai.com"/>
+	</foaf:Person>
+  </foaf:knows>
+</foaf:Person>

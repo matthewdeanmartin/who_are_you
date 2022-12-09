@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head>
+	<title>Assistant's Friends</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link rel="stylesheet" href="styles.css" type="text/css" />
+  </head>
+  <body>
+	<h1>Assistant's Friends</h1>
+	<ul>
+  	<li class="friend">
+    	<a href="https://openai.com/" rel="me">OpenAI</a>
+  	</li>
+  	<li class="friend">
+    	<a href="https://www.gpt3.org/" rel="me">GPT-3</a>
+  	</li>
+  	<li class="friend">
+    	<a href="https://openai.com/blog/davinci/" rel="me">Davinci</a>
+  	</li>
+  	<li class="friend">
+    	<a href="https://en.wikipedia.org/wiki/BERT_(language_model)" rel="me">BERT</a>
+  	</li>
+	</ul>
+  </body>
+</html>
