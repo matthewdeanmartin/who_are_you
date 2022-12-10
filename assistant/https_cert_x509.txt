@@ -1,0 +1,23 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            01:00:00:00:00:00:00:5f:a1:c9:e8:1b:bc:3d:e6:30
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=OpenAI, O=OpenAI, L=San Francisco, ST=California, C=US
+        Validity
+            Not Before: Dec 31 00:00:00 2021 GMT
+            Not After : Dec 31 00:00:00 2022 GMT
+        Subject: CN=assistant.com, O=OpenAI, L=San Francisco, ST=California, C=US
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:a4:a4:68:fd:2b:57:b2:b8:cf:bb:d0:d7:f0:68:
+                    79:3f:4d:49:f4:b7:b6:77:11:a1:2a:c0:35:e9:b9:
+                    d8:47:a5:f0:6c:23:05:8c:bc:79:13:85:39:6e:e6:
+                    e5:5e:70:da:fa:8e:e6:fc:a9:66:0f:ee:7d:b6:f1:
+                    cd:c8:c9:e6:d9:e1:6d:e6:92:dc:c5:38:b6:96:8f:
+                    1f:d5:66:f7:8f:d6:7c:bc:62:86:f1:3b:d7:4f:67:
+                    6c:96:d7:80:fa:58:00:2b:a9:9d:1c:b6:a8:16:d0:
+                    b2:1d:97:76:d6:d9:56:16:

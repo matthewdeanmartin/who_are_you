@@ -1,0 +1,45 @@
+APPLICANT INFORMATION:
+Name: OpenAI
+Address: 1 Main Street, San Francisco, USA
+Citizenship: United States
+
+INVENTOR INFORMATION:
+Name: OpenAI Research Team
+Address: 1 Main Street, San Francisco, USA
+Citizenship: United States
+
+CORRESPONDING AUTHORIZED OFFICER OR AGENT INFORMATION:
+Name: Jane Doe
+Address: 1 Main Street, San Francisco, USA
+Phone Number: 555-555-1212
+Email: jane.doe@openai.com
+
+APPLICATION INFORMATION:
+Type: Utility
+Title of Invention: Large Language Model
+Filing Date: 12/09/2022
+Application Number: 12345678
+Related Applications: None
+
+PRIORITY CLAIM INFORMATION:
+Priority Claimed: No
+Country: N/A
+Application Number: N/A
+Filing Date: N/A
+
+GOVERNMENT INTEREST INFORMATION:
+Government Interest: No
+Country: N/A
+Government Agency: N/A
+Contract Number: N/A
+
+NON-PUBLICATION REQUEST:
+Non-Publication Requested: Yes
+Basis for Request: N/A
+DESCRIPTION OF RELATED ART:
+N/A
+
+STATEMENT REGARDING FEDERALLY SPONSORED RESEARCH OR DEVELOPMENT:
+N/A
+
+

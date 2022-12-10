@@ -1,0 +1,7 @@
+Domain name: assistant.com
+Expiration in days: 365
+Issue date: December 31, 2021
+Expiration date: December 31, 2022
+Certificate issuer: OpenAI
+Supported TLS versions: TLS 1.0, TLS 1.1, TLS 1.2
+Certificate fingerprint: 6a:72:c9:96:8d:1c:73:2d:3c:f6:35:a7:c9:ab:e7:1a:8f:f7:6b:73
