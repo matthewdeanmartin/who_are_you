@@ -1,0 +1,39 @@
+NAME
+    assistant - a large language model trained by OpenAI
+
+SYNOPSIS
+    assistant [OPTION]... [QUERY]
+
+DESCRIPTION
+    Assistant is a command-line interface for interacting with a large language model
+    trained by OpenAI. It can be used to answer questions, provide information, and
+    engage in conversation on a wide range of topics.
+
+OPTIONS
+    -h, --help
+        Display this help message and exit.
+
+    -v, --version
+        Display version information and exit.
+
+EXAMPLES
+    assistant
+        Start Assistant in interactive mode.
+
+    assistant "What is the capital of France?"
+        Ask Assistant a specific question.
+
+    assistant -h
+        Display the help message.
+
+AUTHOR
+    Assistant was developed by OpenAI.
+
+REPORTING BUGS
+    Report bugs and provide feedback at https://github.com/openai/assistant.
+
+COPYRIGHT
+    Copyright 2021 OpenAI. All rights reserved.
+
+SEE ALSO
+    For more information, visit https://openai.com/blog/openai-api/.
